@@ -1,0 +1,148 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Remove Media Library for WordPress\n"
+"POT-Creation-Date: 2019-02-12 13:53+0100\n"
+"PO-Revision-Date: 2019-01-29 23:03+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: remove-media-library.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-remove-media-library-admin.php:421
+msgid "Invalid nonce specified"
+msgstr ""
+
+#: admin/class-remove-media-library-admin.php:421
+msgid "Error"
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:34
+msgid "Removes files from WordPress Media Library fast and easy"
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:35
+msgid "CAUTION:"
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:35
+msgid ""
+"Orphaned files are files not used on posts, pages and WooCommerce "
+"products, BUT may be used in other parts of your website such as the site "
+"logo, widgets or sliders"
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:44
+msgid "ENABLED"
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:44
+msgid ""
+"Media files will go to the trash. If necessary, you can recover them from "
+"there."
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:45
+msgid "Disable Media Trash"
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:49
+msgid "WP Media trash is"
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:49
+msgid "DISABLED"
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:49
+msgid ""
+"Your files will be deleted PERMANENTLY. Please make a full backup "
+"beforehand."
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:81
+msgid "1- Select media type"
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:89
+msgid " images ("
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:89
+#: admin/partials/remove-media-library-admin-display.php:100
+#: admin/partials/remove-media-library-admin-display.php:111
+#: admin/partials/remove-media-library-admin-display.php:122
+msgid " orphaned)"
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:100
+msgid " videos ("
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:111
+msgid " documents ("
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:122
+msgid " audios ("
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:132
+msgid "Please select at least one media type"
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:140
+msgid "2- Remove ALL or only ORPHANS?"
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:145
+msgid "Remove ONLY orphan selected files"
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:151
+msgid "Remove ALL selected files"
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:160
+msgid "Please select REMOVE action"
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:166
+msgid "REMOVE SELECTED FILES!"
+msgstr ""
+
+#: admin/partials/remove-media-library-admin-display.php:170
+msgid "Nothing to do"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Remove Media Library"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://webstilo.com/remove-media-library/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Remove all media from WordPress Media Library."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WebStilo.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://webstilo.com/"
+msgstr ""
